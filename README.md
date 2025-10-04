@@ -13,7 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   <h1>Awesome Readme Template</h1>
   
   <p>
-    An awesome README template for your projects! 
+    Hello, welcome! This page will illustrate some tips and tricks on how to navigate through this agile world! 
   </p>
   
   
@@ -292,10 +292,6 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 <!-- Contact -->
 ## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
 
 
 <!-- Acknowledgments -->
