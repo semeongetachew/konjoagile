@@ -141,8 +141,7 @@ Effective Agile practice is supported by tools that help teams visualize work, c
 **Konjo Agile** was created to support learners and professionals exploring Agile practices.  
 
 **Contributors:**  
-- [Your Name Here] — Creator & Maintainer  
-- [Team Members or Collaborators, if applicable]
+- [Semeon Getachew] — Creator & Maintainer  
 
 **Special Thanks:**  
 - The global Agile community for sharing knowledge and continuous improvement.  
