@@ -1,305 +1,151 @@
-# konjoagile
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
-<div align="center">
-
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
-  
-  <p>
-    Hello, welcome! This page will illustrate some tips and tricks on how to navigate through this agile world! 
-  </p>
-  
-  
-<!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
-</p>
-   
-<h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
-  </h4>
-</div>
-
-<br />
-
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
-
-  
-
-<!-- About the Project -->
-## :star2: About the Project
-
-
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
-
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
+# 🌀 Konjo Agile
 
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
+Hello, welcome! This page will illustrate some tips and tricks on how to navigate through this agile world!
 
-<!-- Features -->
-### :dart: Features
+---
 
-- Feature 1
-- Feature 2
-- Feature 3
+## 📚 Table of Contents
 
-<!-- Color Reference -->
-### :art: Color Reference
+1. [Overview](#overview)  
+2. [Getting Started](#getting-started)  
+3. [Team Roles & Responsibilities](#team-roles--responsibilities)  
+4. [Conflict Resolution](#conflict-resolution)  
+5. [Retrospectives](#retrospectives)  
+6. [Agile Frameworks](#agile-frameworks)  
+7. [Agile Tools](#agile-tools)  
+8. [Helpful Links](#helpful-links)  
+9. [Learning Resources](#learning-resources)  
+10. [Contributors & Acknowledgments](#contributors--acknowledgments)
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+---
 
+## 🧩 Overview
 
-<!-- Env Variables -->
-### :key: Environment Variables
+**Konjo Agile** is designed to guide you through the principles, practices, and techniques of the Agile methodology. Whether you’re new to Agile or looking to refine your approach, this resource will help you explore key concepts, best practices, and real-world applications for effective Agile project management.
 
-To run this project, you will need to add the following environment variables to your .env file
+---
 
-`API_KEY`
+## 🚀 Getting Started
 
-`ANOTHER_API_KEY`
+To begin exploring Konjo Agile:
 
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
+1. Read through the provided materials to understand Agile fundamentals.  
+2. Practice applying Agile principles in your daily work.  
+3. Experiment with different frameworks (like Scrum or Kanban) to find what works best for your team.  
+4. Revisit this guide for new tips and insights as you grow your Agile skills.  
 
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
+---
 
-This project uses Yarn as package manager
+## 👥 Team Roles & Responsibilities
 
-```bash
- npm install --global yarn
-```
+Agile teams thrive when each member clearly understands their role and contributes to a shared purpose.  
 
-<!-- Installation -->
-### :gear: Installation
+- **Product Owner:** Defines the vision, prioritizes the backlog, and ensures the team delivers value to customers.  
+- **Scrum Master / Agile Coach:** Facilitates team processes, removes roadblocks, and fosters continuous improvement.  
+- **Development Team:** Self-organizing professionals who design, build, test, and deliver working software.  
+- **Stakeholders:** Provide feedback, clarify requirements, and align expectations with the team’s progress.  
 
-Install my-project with npm
+---
 
-```bash
-  yarn install my-project
-  cd my-project
-```
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
+## 🤝 Conflict Resolution
 
-To run tests, run the following command
+In Agile environments, conflicts can arise due to differing perspectives, priorities, or communication gaps. Healthy conflict resolution encourages collaboration and continuous improvement.
 
-```bash
-  yarn test test
-```
+**Tips for resolving conflicts effectively:**
+- Listen actively
+- Focus on goals, not blame
+- Use retrospectives
+- Encourage transparency
+- Involve facilitators
 
-<!-- Run Locally -->
-### :running: Run Locally
+By addressing conflicts constructively, teams can strengthen trust, improve communication, and maintain momentum toward their goals.
 
-Clone the project
+---
 
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
+## 🔁 Retrospectives
 
-Go to the project directory
+Retrospectives are a core Agile ceremony that allow teams to inspect and adapt their processes.  
 
-```bash
-  cd my-project
-```
+**Common formats:**
+- Start, Stop, Continue  
+- Mad, Sad, Glad  
+- 4Ls — Liked, Learned, Lacked, Longed for  
 
-Install dependencies
+**Best practices:**
+- Keep discussions constructive and action-oriented.  
+- Celebrate wins, no matter how small.  
+- Turn insights into clear, actionable items for the next sprint.  
 
-```bash
-  yarn install
-```
+---
 
-Start the server
+## ⚙️ Agile Frameworks
 
-```bash
-  yarn start
-```
+Agile is an umbrella term for several frameworks that embody its principles. Below are some of the most widely used:
 
+- **Scrum:** A structured framework for iterative development centered on fixed-length sprints, defined roles, and ceremonies.  
+- **Kanban:** A visual system for managing work as it moves through a process. It emphasizes continuous delivery and limiting work in progress.  
+- **Extreme Programming (XP):** Focuses on technical excellence through TDD, pair programming, and continuous integration.  
+- **Lean:** Derived from manufacturing, Lean aims to maximize value and minimize waste.  
 
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
+---
 
-To deploy this project run
+## 🧰 Agile Tools
 
-```bash
-  yarn deploy
-```
+Effective Agile practice is supported by tools that help teams visualize work, collaborate, and track progress.
 
+**Popular tools include:**
+- Jira  
+- Trello  
+- Azure DevOps  
+- ClickUp  
+- Miro / Mural  
 
-<!-- Usage -->
-## :eyes: Usage
+---
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+## 🔗 Helpful Links
 
+- [The Agile Manifesto](https://agilemanifesto.org/)  
+- [Scrum Guides](https://scrumguides.org/)  
+- [Scaled Agile Framework (SAFe)](https://scaledagileframework.com/)  
+- [Atlassian Agile Coach](https://www.atlassian.com/agile)
 
-```javascript
-import Component from 'my-project'
+---
 
-function App() {
-  return <Component />
-}
-```
+## 🎓 Learning Resources
 
-<!-- Roadmap -->
-## :compass: Roadmap
+### Books
+- Scrum: The Art of Doing Twice the Work in Half the Time — Jeff Sutherland  
+- Agile Estimating and Planning — Mike Cohn  
+- Essential Scrum — Kenneth S. Rubin  
+- The Lean Startup — Eric Ries  
 
-* [x] Todo 1
-* [ ] Todo 2
+### Online Courses
+- [Coursera: Agile Development Specialization](https://www.coursera.org/specializations/agile-development)  
+- [Udemy: Agile Crash Course](https://www.udemy.com/course/agile-crash-course/)  
+- [Scrum.org Training](https://www.scrum.org/classes)  
 
+### Podcasts
+- Agile for Humans — Ryan Ripley  
+- This Agile Life  
+- The Agile Pubcast  
 
-<!-- Contributing -->
-## :wave: Contributing
+### Videos & Talks
+- [Agile in 10 Minutes (YouTube)](https://www.youtube.com/results?search_query=agile+in+10+minutes)  
+- [TEDx: Embracing Agile](https://www.ted.com/topics/agile)  
+- [Atlassian Agile Coach Video Series](https://www.atlassian.com/agile/tutorials)
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
+---
 
+## 🙌 Contributors & Acknowledgments
 
-Contributions are always welcome!
+**Konjo Agile** was created to support learners and professionals exploring Agile practices.  
 
-See `contributing.md` for ways to get started.
+**Contributors:**  
+- [Your Name Here] — Creator & Maintainer  
+- [Team Members or Collaborators, if applicable]
 
+**Special Thanks:**  
+- The global Agile community for sharing knowledge and continuous improvement.  
+- The authors and thought leaders who inspired the Agile movement.  
 
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## :grey_question: FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-
-<!-- Contact -->
-## :handshake: Contact
-
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+> “Individuals and interactions over processes and tools.” — The Agile Manifesto
