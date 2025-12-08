@@ -96,7 +96,6 @@ Effective Agile practice is supported by tools that help teams visualize work, c
 **Popular tools include:**
 - Jira  
 - Confluence 
-- Azure DevOps  
 - ClickUp  
 - Miro / Mural  
 
